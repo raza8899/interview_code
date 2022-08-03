@@ -1,0 +1,1237 @@
+[
+    {
+        "user_id": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "10 weeks, 5 hours and 16 minutes"
+    },
+    {
+        "user_id": "4694a8cd-6985-442a-b4c3-98a809a13888",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "10 weeks, 3 days and 6 hours"
+    },
+    {
+        "user_id": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "1 week, 2 days and 4 hours"
+    },
+    {
+        "user_id": "6237b65b-6a0b-4add-acec-a37fff834804",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "30 weeks, 5 days and 17 hours"
+    },
+    {
+        "user_id": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "4 weeks, 6 days and 3 hours"
+    },
+    {
+        "user_id": "a8616076-7b2a-4d98-906a-157613d8aa01",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "13 weeks, 2 days and 8 hours"
+    },
+    {
+        "user_id": "b2483bc5-99b5-4bc0-8337-f78af5227272",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "10 weeks, 1 day and 13 hours"
+    },
+    {
+        "user_id": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "11 weeks, 2 days and 12 hours"
+    },
+    {
+        "user_id": "235eb8df-e224-43ee-9aea-567e9f33b675",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "10 weeks, 1 day and 3 hours"
+    },
+    {
+        "user_id": "923f2b06-7bf9-45ec-a362-ad81ebd86137",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "6 weeks, 3 days and 13 hours"
+    },
+    {
+        "user_id": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "16 weeks, 1 day and 18 hours"
+    },
+    {
+        "user_id": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "16 weeks, 6 days and 6 hours"
+    },
+    {
+        "user_id": "b6cdf6bf-9598-4856-a72e-de48cfffb728",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "14 weeks, 5 days and 13 hours"
+    },
+    {
+        "user_id": "9b728ea9-752c-4c1f-a5ee-b740dc42d718",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "10 weeks, 4 days and 23 hours"
+    },
+    {
+        "user_id": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "6 weeks, 17 hours and 23 minutes"
+    },
+    {
+        "user_id": "364df166-d9e4-4d86-8160-c112a6aecc52",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "31 weeks, 2 days and 16 hours"
+    },
+    {
+        "user_id": "6237b65b-6a0b-4add-acec-a37fff834804",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "10 weeks, 4 days and 9 hours"
+    },
+    {
+        "user_id": "3791a8b6-ba07-4cdb-a525-4b86f96c463a",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "5 weeks, 5 days and 23 hours"
+    },
+    {
+        "user_id": "69491f48-6602-4092-bde0-8e240ea5dd68",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "9 weeks, 6 days and 1 hour"
+    },
+    {
+        "user_id": "1b34818a-5d6f-4537-8266-398db47c786e",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "4 weeks, 2 days and 13 hours"
+    },
+    {
+        "user_id": "a1ab041f-a49d-4fa0-9e15-97a60ad4f0a1",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "21 weeks, 6 days and 18 hours"
+    },
+    {
+        "user_id": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "7 weeks, 3 days and 15 hours"
+    },
+    {
+        "user_id": "a8616076-7b2a-4d98-906a-157613d8aa01",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "3 weeks, 4 hours and 54 minutes"
+    },
+    {
+        "user_id": "61a3e302-5e4f-4804-81d0-1ac82860199b",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "14 weeks, 5 days and 4 hours"
+    },
+    {
+        "user_id": "e43b13b5-42aa-4a8f-8cfe-af2b2e1bfa66",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "1 week, 1 day and 21 hours"
+    },
+    {
+        "user_id": "4e034428-23ee-4b55-80c0-25546b1757f3",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "24 weeks, 4 days and 9 hours"
+    },
+    {
+        "user_id": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "17 weeks, 4 days and 23 hours"
+    },
+    {
+        "user_id": "37be897b-8f3d-4f55-a046-a094654c2859",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "15 weeks, 12 hours and 20 minutes"
+    },
+    {
+        "user_id": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "10 weeks, 4 days and 14 hours"
+    },
+    {
+        "user_id": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "16 weeks, 9 hours and 21 minutes"
+    },
+    {
+        "user_id": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "5 weeks, 6 days and 11 hours"
+    },
+    {
+        "user_id": "e43b13b5-42aa-4a8f-8cfe-af2b2e1bfa66",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "18 weeks, 1 day and 16 hours"
+    },
+    {
+        "user_id": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "23 weeks, 18 hours and 27 minutes"
+    },
+    {
+        "user_id": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "31 weeks, 7 hours and 53 minutes"
+    },
+    {
+        "user_id": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "11 weeks, 6 days and 16 hours"
+    },
+    {
+        "user_id": "6516f845-9742-4e84-bf92-dbaf024029f5",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "19 weeks, 6 days and 11 hours"
+    },
+    {
+        "user_id": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "8 weeks, 2 days and 7 hours"
+    },
+    {
+        "user_id": "6516f845-9742-4e84-bf92-dbaf024029f5",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "9 weeks, 6 days and 22 hours"
+    },
+    {
+        "user_id": "b2483bc5-99b5-4bc0-8337-f78af5227272",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "7 weeks, 1 day and 4 hours"
+    },
+    {
+        "user_id": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "12 weeks, 6 days and 1 hour"
+    },
+    {
+        "user_id": "e43b13b5-42aa-4a8f-8cfe-af2b2e1bfa66",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "1 week, 4 days and 3 hours"
+    },
+    {
+        "user_id": "8eb38f5c-a281-4b49-a303-ecdb9898e96b",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "15 weeks, 2 days and 9 hours"
+    },
+    {
+        "user_id": "dc2c9c95-81ce-48d7-b99f-b300575373fe",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "13 weeks, 6 days and 3 hours"
+    },
+    {
+        "user_id": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "4 days, 15 hours and 3 minutes"
+    },
+    {
+        "user_id": "596f1d83-63db-49e5-bb15-5236b40d4f45",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "6 weeks, 3 days and 22 hours"
+    },
+    {
+        "user_id": "a1ab041f-a49d-4fa0-9e15-97a60ad4f0a1",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "18 weeks, 2 days and 12 hours"
+    },
+    {
+        "user_id": "9eb6617d-6ea4-44fb-ba2b-6938a825bb4a",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "10 weeks, 4 days and 12 hours"
+    },
+    {
+        "user_id": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "10 weeks, 2 days and 12 hours"
+    },
+    {
+        "user_id": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "2 weeks, 21 hours and 12 minutes"
+    },
+    {
+        "user_id": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "13 weeks, 5 days and 17 hours"
+    },
+    {
+        "user_id": "f5b8371d-659a-4831-90df-eedce9e2e114",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "35 weeks, 11 hours and 41 minutes"
+    },
+    {
+        "user_id": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "11 weeks, 3 days and 11 hours"
+    },
+    {
+        "user_id": "a8dad57f-3711-408b-b32a-f58c79f0df95",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "3 weeks, 3 days and 11 hours"
+    },
+    {
+        "user_id": "828025e4-ed38-473b-9176-3dbe23be6c16",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "6 weeks, 5 days and 6 hours"
+    },
+    {
+        "user_id": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "4 days, 2 hours and 1 minute"
+    },
+    {
+        "user_id": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "3 weeks, 6 days and 23 hours"
+    },
+    {
+        "user_id": "69491f48-6602-4092-bde0-8e240ea5dd68",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "11 weeks, 4 days and 3 hours"
+    },
+    {
+        "user_id": "4e034428-23ee-4b55-80c0-25546b1757f3",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "8 weeks, 2 days and 21 hours"
+    },
+    {
+        "user_id": "61a3e302-5e4f-4804-81d0-1ac82860199b",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "5 weeks, 5 days and 12 hours"
+    },
+    {
+        "user_id": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "4 weeks, 4 days and 8 hours"
+    },
+    {
+        "user_id": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "6 weeks, 5 days and 7 hours"
+    },
+    {
+        "user_id": "a1ab041f-a49d-4fa0-9e15-97a60ad4f0a1",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "10 weeks, 4 days and 11 hours"
+    },
+    {
+        "user_id": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "1 week, 5 days and 43 minutes"
+    },
+    {
+        "user_id": "b2483bc5-99b5-4bc0-8337-f78af5227272",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "34 weeks, 4 days and 18 hours"
+    },
+    {
+        "user_id": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "11 weeks, 9 hours and 19 minutes"
+    },
+    {
+        "user_id": "a3327af6-8572-477b-9ee0-a1755a881632",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "15 weeks, 23 hours and 11 minutes"
+    },
+    {
+        "user_id": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "8 weeks, 1 day and 5 hours"
+    },
+    {
+        "user_id": "b6cdf6bf-9598-4856-a72e-de48cfffb728",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "9 weeks, 5 days and 17 hours"
+    },
+    {
+        "user_id": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "26 weeks, 5 days and 11 hours"
+    },
+    {
+        "user_id": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "17 weeks, 2 days and 3 hours"
+    },
+    {
+        "user_id": "923f2b06-7bf9-45ec-a362-ad81ebd86137",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "20 weeks, 6 days and 23 hours"
+    },
+    {
+        "user_id": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "9 weeks, 6 days and 5 hours"
+    },
+    {
+        "user_id": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "11 weeks, 2 days and 7 hours"
+    },
+    {
+        "user_id": "6516f845-9742-4e84-bf92-dbaf024029f5",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "11 weeks, 2 days and 10 hours"
+    },
+    {
+        "user_id": "4e034428-23ee-4b55-80c0-25546b1757f3",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "1 week, 2 days and 2 hours"
+    },
+    {
+        "user_id": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "4 weeks, 2 days and 22 hours"
+    },
+    {
+        "user_id": "235eb8df-e224-43ee-9aea-567e9f33b675",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "15 weeks, 1 day and 3 hours"
+    },
+    {
+        "user_id": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "15 weeks, 5 days and 17 hours"
+    },
+    {
+        "user_id": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "4 weeks, 4 days and 2 hours"
+    },
+    {
+        "user_id": "a3327af6-8572-477b-9ee0-a1755a881632",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "6 weeks, 3 days and 14 hours"
+    },
+    {
+        "user_id": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "4 weeks, 17 hours and 53 minutes"
+    },
+    {
+        "user_id": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "6 weeks, 1 day and 6 hours"
+    },
+    {
+        "user_id": "9b728ea9-752c-4c1f-a5ee-b740dc42d718",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "1 day, 13 hours and 26 minutes"
+    },
+    {
+        "user_id": "364df166-d9e4-4d86-8160-c112a6aecc52",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "23 hours, 58 minutes and 30.83 seconds"
+    },
+    {
+        "user_id": "b492386b-2b57-406e-b690-fc01ae8421c6",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "11 weeks, 2 days and 19 hours"
+    },
+    {
+        "user_id": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "17 weeks, 2 days and 20 hours"
+    },
+    {
+        "user_id": "a966240c-8004-45f7-904e-f4c0b1534a30",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "6 weeks, 3 days and 12 hours"
+    },
+    {
+        "user_id": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "4 weeks, 5 days and 4 hours"
+    },
+    {
+        "user_id": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "8 weeks, 5 days and 10 hours"
+    },
+    {
+        "user_id": "a1ab041f-a49d-4fa0-9e15-97a60ad4f0a1",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "3 weeks, 10 hours and 22 minutes"
+    },
+    {
+        "user_id": "b492386b-2b57-406e-b690-fc01ae8421c6",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "2 weeks, 1 day and 8 hours"
+    },
+    {
+        "user_id": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "4 weeks, 1 day and 21 hours"
+    },
+    {
+        "user_id": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "5 weeks, 4 days and 17 hours"
+    },
+    {
+        "user_id": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "6 weeks, 10 hours and 30 minutes"
+    },
+    {
+        "user_id": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "4 weeks, 3 days and 5 hours"
+    },
+    {
+        "user_id": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "16 weeks, 1 day and 4 hours"
+    },
+    {
+        "user_id": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "7 weeks, 5 days and 6 hours"
+    },
+    {
+        "user_id": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "10 weeks, 2 days and 18 hours"
+    },
+    {
+        "user_id": "1b34818a-5d6f-4537-8266-398db47c786e",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "3 weeks, 5 days and 19 hours"
+    },
+    {
+        "user_id": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "11 weeks, 3 days and 22 hours"
+    },
+    {
+        "user_id": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "4 weeks, 2 days and 13 hours"
+    },
+    {
+        "user_id": "a966240c-8004-45f7-904e-f4c0b1534a30",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "9 weeks, 5 days and 21 hours"
+    },
+    {
+        "user_id": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "14 weeks, 4 days and 18 hours"
+    },
+    {
+        "user_id": "69491f48-6602-4092-bde0-8e240ea5dd68",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "3 weeks, 1 day and 17 hours"
+    },
+    {
+        "user_id": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "15 weeks, 3 days and 3 hours"
+    },
+    {
+        "user_id": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "22 weeks, 5 days and 21 hours"
+    },
+    {
+        "user_id": "923f2b06-7bf9-45ec-a362-ad81ebd86137",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "14 weeks, 5 days and 59 minutes"
+    },
+    {
+        "user_id": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "4 weeks, 5 days and 13 hours"
+    },
+    {
+        "user_id": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "1 day, 4 hours and 8 minutes"
+    },
+    {
+        "user_id": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "8 weeks, 3 days and 9 hours"
+    },
+    {
+        "user_id": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "11 weeks, 2 days and 9 hours"
+    },
+    {
+        "user_id": "dc2c9c95-81ce-48d7-b99f-b300575373fe",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "4 days, 13 hours and 19 minutes"
+    },
+    {
+        "user_id": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "17 weeks, 1 day and 21 hours"
+    },
+    {
+        "user_id": "dc2c9c95-81ce-48d7-b99f-b300575373fe",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "2 weeks, 6 days and 10 hours"
+    },
+    {
+        "user_id": "b6cdf6bf-9598-4856-a72e-de48cfffb728",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "12 weeks, 6 days and 23 hours"
+    },
+    {
+        "user_id": "a1ab041f-a49d-4fa0-9e15-97a60ad4f0a1",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "6 weeks, 5 days and 22 hours"
+    },
+    {
+        "user_id": "1b34818a-5d6f-4537-8266-398db47c786e",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "5 days, 19 hours and 49 minutes"
+    },
+    {
+        "user_id": "9eb6617d-6ea4-44fb-ba2b-6938a825bb4a",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "2 weeks, 4 days and 22 hours"
+    },
+    {
+        "user_id": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "14 weeks, 6 days and 12 hours"
+    },
+    {
+        "user_id": "235eb8df-e224-43ee-9aea-567e9f33b675",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "4 weeks, 3 days and 3 hours"
+    },
+    {
+        "user_id": "4694a8cd-6985-442a-b4c3-98a809a13888",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "14 weeks, 4 days and 22 hours"
+    },
+    {
+        "user_id": "a8dad57f-3711-408b-b32a-f58c79f0df95",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "11 weeks, 1 day and 10 hours"
+    },
+    {
+        "user_id": "e43b13b5-42aa-4a8f-8cfe-af2b2e1bfa66",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "10 weeks, 1 day and 5 hours"
+    },
+    {
+        "user_id": "b2483bc5-99b5-4bc0-8337-f78af5227272",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "6 weeks, 4 days and 10 hours"
+    },
+    {
+        "user_id": "6516f845-9742-4e84-bf92-dbaf024029f5",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "5 weeks, 6 days and 6 hours"
+    },
+    {
+        "user_id": "3791a8b6-ba07-4cdb-a525-4b86f96c463a",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "8 weeks, 9 hours and 12 minutes"
+    },
+    {
+        "user_id": "a966240c-8004-45f7-904e-f4c0b1534a30",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "3 weeks, 6 hours and 34 minutes"
+    },
+    {
+        "user_id": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "12 weeks, 2 days and 6 hours"
+    },
+    {
+        "user_id": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "6 weeks, 5 days and 15 hours"
+    },
+    {
+        "user_id": "61a3e302-5e4f-4804-81d0-1ac82860199b",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "15 weeks, 6 days and 1 hour"
+    },
+    {
+        "user_id": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "2 weeks, 1 day and 22 hours"
+    },
+    {
+        "user_id": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "4 weeks, 20 hours and 30 minutes"
+    },
+    {
+        "user_id": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "5 weeks, 3 days and 4 hours"
+    },
+    {
+        "user_id": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "13 weeks, 2 days and 11 hours"
+    },
+    {
+        "user_id": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "6 weeks, 17 hours and 21 minutes"
+    },
+    {
+        "user_id": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "10 weeks, 3 days and 4 hours"
+    },
+    {
+        "user_id": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "2 weeks, 3 days and 10 hours"
+    },
+    {
+        "user_id": "b492386b-2b57-406e-b690-fc01ae8421c6",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "19 weeks, 5 days and 10 hours"
+    },
+    {
+        "user_id": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "4 weeks, 2 days and 16 hours"
+    },
+    {
+        "user_id": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "7 weeks, 3 days and 10 hours"
+    },
+    {
+        "user_id": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "4 weeks, 11 hours and 41 minutes"
+    },
+    {
+        "user_id": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "11 weeks, 2 days and 1 hour"
+    },
+    {
+        "user_id": "9eb6617d-6ea4-44fb-ba2b-6938a825bb4a",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "16 weeks, 19 hours and 21 minutes"
+    },
+    {
+        "user_id": "9b728ea9-752c-4c1f-a5ee-b740dc42d718",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "9 weeks, 5 days and 21 hours"
+    },
+    {
+        "user_id": "8eb38f5c-a281-4b49-a303-ecdb9898e96b",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "17 weeks, 4 days and 20 hours"
+    },
+    {
+        "user_id": "364df166-d9e4-4d86-8160-c112a6aecc52",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "7 weeks, 1 day and 48 minutes"
+    },
+    {
+        "user_id": "a8dad57f-3711-408b-b32a-f58c79f0df95",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "8 weeks, 1 day and 8 hours"
+    },
+    {
+        "user_id": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "11 weeks, 2 days and 14 hours"
+    },
+    {
+        "user_id": "a3327af6-8572-477b-9ee0-a1755a881632",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "4 weeks, 4 days and 12 hours"
+    },
+    {
+        "user_id": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "9 weeks, 6 days and 14 hours"
+    },
+    {
+        "user_id": "9eb6617d-6ea4-44fb-ba2b-6938a825bb4a",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "5 weeks, 20 hours and 45 minutes"
+    },
+    {
+        "user_id": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "3 weeks, 21 hours and 41 minutes"
+    },
+    {
+        "user_id": "a3327af6-8572-477b-9ee0-a1755a881632",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "13 weeks, 1 day and 6 hours"
+    },
+    {
+        "user_id": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "11 weeks, 6 days and 14 hours"
+    },
+    {
+        "user_id": "a3327af6-8572-477b-9ee0-a1755a881632",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "1 week, 6 days and 10 hours"
+    },
+    {
+        "user_id": "828025e4-ed38-473b-9176-3dbe23be6c16",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "8 weeks, 1 day and 2 hours"
+    },
+    {
+        "user_id": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "3 weeks, 3 days and 11 hours"
+    },
+    {
+        "user_id": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "6 weeks, 3 days and 23 hours"
+    },
+    {
+        "user_id": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "13 weeks, 4 days and 14 hours"
+    },
+    {
+        "user_id": "f5b8371d-659a-4831-90df-eedce9e2e114",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "11 weeks, 1 day and 5 hours"
+    },
+    {
+        "user_id": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "16 weeks, 4 days and 19 hours"
+    },
+    {
+        "user_id": "a966240c-8004-45f7-904e-f4c0b1534a30",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "9 weeks, 43 minutes and 58.7 seconds"
+    },
+    {
+        "user_id": "61a3e302-5e4f-4804-81d0-1ac82860199b",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "2 weeks, 1 day and 11 hours"
+    },
+    {
+        "user_id": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "6 weeks, 5 days and 16 hours"
+    },
+    {
+        "user_id": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "22 weeks, 1 day and 3 hours"
+    },
+    {
+        "user_id": "4694a8cd-6985-442a-b4c3-98a809a13888",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "11 weeks, 1 day and 19 hours"
+    },
+    {
+        "user_id": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "19 weeks, 6 days and 19 hours"
+    },
+    {
+        "user_id": "69491f48-6602-4092-bde0-8e240ea5dd68",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "5 days, 2 hours and 22 minutes"
+    },
+    {
+        "user_id": "6237b65b-6a0b-4add-acec-a37fff834804",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "6 weeks, 1 day and 3 hours"
+    },
+    {
+        "user_id": "596f1d83-63db-49e5-bb15-5236b40d4f45",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "11 weeks, 4 days and 6 hours"
+    },
+    {
+        "user_id": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "20 weeks, 3 days and 6 hours"
+    },
+    {
+        "user_id": "a8616076-7b2a-4d98-906a-157613d8aa01",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "2 weeks, 2 days and 1 hour"
+    },
+    {
+        "user_id": "3791a8b6-ba07-4cdb-a525-4b86f96c463a",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "9 weeks, 6 days and 10 hours"
+    },
+    {
+        "user_id": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "5 weeks, 2 days and 2 minutes"
+    },
+    {
+        "user_id": "69491f48-6602-4092-bde0-8e240ea5dd68",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "8 weeks, 5 days and 18 hours"
+    },
+    {
+        "user_id": "4e034428-23ee-4b55-80c0-25546b1757f3",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "9 weeks, 2 days and 11 hours"
+    },
+    {
+        "user_id": "37be897b-8f3d-4f55-a046-a094654c2859",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "7 weeks, 20 hours and 55 minutes"
+    },
+    {
+        "user_id": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "7 weeks, 1 hour and 43 minutes"
+    },
+    {
+        "user_id": "596f1d83-63db-49e5-bb15-5236b40d4f45",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "6 weeks, 1 day and 56 minutes"
+    },
+    {
+        "user_id": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "17 weeks, 2 days and 6 hours"
+    },
+    {
+        "user_id": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "4 weeks, 2 days and 6 hours"
+    },
+    {
+        "user_id": "9b728ea9-752c-4c1f-a5ee-b740dc42d718",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "1 week, 6 days and 14 hours"
+    },
+    {
+        "user_id": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "15 weeks, 5 days and 13 hours"
+    },
+    {
+        "user_id": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "17 weeks, 1 day and 12 hours"
+    },
+    {
+        "user_id": "37be897b-8f3d-4f55-a046-a094654c2859",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "18 weeks, 6 days and 14 hours"
+    },
+    {
+        "user_id": "6516f845-9742-4e84-bf92-dbaf024029f5",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "11 weeks, 5 days and 19 hours"
+    },
+    {
+        "user_id": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "5 weeks, 5 days and 11 hours"
+    },
+    {
+        "user_id": "923f2b06-7bf9-45ec-a362-ad81ebd86137",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "4 weeks, 1 day and 4 hours"
+    },
+    {
+        "user_id": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "8 weeks, 4 days and 11 hours"
+    },
+    {
+        "user_id": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "1 week, 9 hours and 33 minutes"
+    },
+    {
+        "user_id": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "9 weeks, 4 days and 10 hours"
+    },
+    {
+        "user_id": "b6cdf6bf-9598-4856-a72e-de48cfffb728",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "15 weeks, 3 days and 23 hours"
+    },
+    {
+        "user_id": "8eb38f5c-a281-4b49-a303-ecdb9898e96b",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "8 weeks, 2 days and 22 hours"
+    },
+    {
+        "user_id": "6237b65b-6a0b-4add-acec-a37fff834804",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "13 weeks, 6 days and 14 hours"
+    },
+    {
+        "user_id": "8eb38f5c-a281-4b49-a303-ecdb9898e96b",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "1 day, 13 hours and 57 minutes"
+    },
+    {
+        "user_id": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "6 weeks, 6 days and 7 hours"
+    },
+    {
+        "user_id": "a8616076-7b2a-4d98-906a-157613d8aa01",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "13 weeks, 3 days and 20 hours"
+    },
+    {
+        "user_id": "69491f48-6602-4092-bde0-8e240ea5dd68",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "3 weeks, 17 hours and 45 minutes"
+    },
+    {
+        "user_id": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "14 weeks, 5 days and 9 hours"
+    },
+    {
+        "user_id": "6237b65b-6a0b-4add-acec-a37fff834804",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "3 weeks, 1 day and 17 hours"
+    },
+    {
+        "user_id": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "4 weeks, 1 day and 14 hours"
+    },
+    {
+        "user_id": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "12 weeks, 2 days and 21 hours"
+    },
+    {
+        "user_id": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "20 weeks, 17 hours and 59 minutes"
+    },
+    {
+        "user_id": "364df166-d9e4-4d86-8160-c112a6aecc52",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "11 weeks, 3 days and 10 hours"
+    },
+    {
+        "user_id": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "9 weeks, 11 hours and 39 minutes"
+    },
+    {
+        "user_id": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "11 weeks, 6 days and 17 hours"
+    },
+    {
+        "user_id": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "6 weeks, 2 days and 21 hours"
+    },
+    {
+        "user_id": "4694a8cd-6985-442a-b4c3-98a809a13888",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "3 weeks, 4 days and 5 hours"
+    },
+    {
+        "user_id": "828025e4-ed38-473b-9176-3dbe23be6c16",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "15 weeks, 3 hours and 36 minutes"
+    },
+    {
+        "user_id": "dc2c9c95-81ce-48d7-b99f-b300575373fe",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "6 weeks, 5 days and 12 hours"
+    },
+    {
+        "user_id": "1b34818a-5d6f-4537-8266-398db47c786e",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "2 weeks, 2 days and 4 hours"
+    },
+    {
+        "user_id": "6237b65b-6a0b-4add-acec-a37fff834804",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "1 day, 3 hours and 14 minutes"
+    },
+    {
+        "user_id": "f5b8371d-659a-4831-90df-eedce9e2e114",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "5 weeks, 3 days and 7 hours"
+    },
+    {
+        "user_id": "b2483bc5-99b5-4bc0-8337-f78af5227272",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "7 weeks, 5 days and 17 hours"
+    },
+    {
+        "user_id": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "16 weeks, 4 days and 17 hours"
+    },
+    {
+        "user_id": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "7 weeks, 1 day and 23 hours"
+    },
+    {
+        "user_id": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "11 weeks, 6 days and 12 hours"
+    },
+    {
+        "user_id": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "10 weeks, 2 days and 20 hours"
+    },
+    {
+        "user_id": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "8 weeks, 5 days and 6 hours"
+    },
+    {
+        "user_id": "8eb38f5c-a281-4b49-a303-ecdb9898e96b",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "4 weeks, 2 days and 7 hours"
+    },
+    {
+        "user_id": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "1 week, 3 days and 7 hours"
+    },
+    {
+        "user_id": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "17 weeks, 13 hours and 54 minutes"
+    },
+    {
+        "user_id": "923f2b06-7bf9-45ec-a362-ad81ebd86137",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "6 weeks, 3 days and 12 hours"
+    },
+    {
+        "user_id": "f5b8371d-659a-4831-90df-eedce9e2e114",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "4 weeks, 16 hours and 26 minutes"
+    },
+    {
+        "user_id": "596f1d83-63db-49e5-bb15-5236b40d4f45",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "2 days, 16 hours and 41 minutes"
+    },
+    {
+        "user_id": "a1ab041f-a49d-4fa0-9e15-97a60ad4f0a1",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "8 weeks, 3 days and 14 hours"
+    },
+    {
+        "user_id": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "2 days, 1 hour and 18 minutes"
+    },
+    {
+        "user_id": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "7 weeks, 1 day and 19 hours"
+    },
+    {
+        "user_id": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "13 weeks, 5 days and 14 hours"
+    },
+    {
+        "user_id": "828025e4-ed38-473b-9176-3dbe23be6c16",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "22 weeks, 2 days and 8 hours"
+    },
+    {
+        "user_id": "f5b8371d-659a-4831-90df-eedce9e2e114",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "4 weeks, 5 days and 21 hours"
+    },
+    {
+        "user_id": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "6 weeks, 1 day and 18 hours"
+    },
+    {
+        "user_id": "a8dad57f-3711-408b-b32a-f58c79f0df95",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "5 weeks, 5 days and 20 hours"
+    },
+    {
+        "user_id": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "10 weeks, 3 days and 1 hour"
+    },
+    {
+        "user_id": "b6cdf6bf-9598-4856-a72e-de48cfffb728",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "3 weeks, 1 day and 2 hours"
+    },
+    {
+        "user_id": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "4 weeks, 1 day and 2 hours"
+    },
+    {
+        "user_id": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "12 weeks, 1 day and 23 hours"
+    },
+    {
+        "user_id": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "13 weeks, 4 days and 14 hours"
+    },
+    {
+        "user_id": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "6 weeks, 2 days and 15 hours"
+    },
+    {
+        "user_id": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+        "course_id": "25198334-ce53-468e-906e-d4b5ead1e025",
+        "avg_time_spent": "16 weeks, 4 hours and 59 minutes"
+    },
+    {
+        "user_id": "1b34818a-5d6f-4537-8266-398db47c786e",
+        "course_id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+        "avg_time_spent": "9 weeks, 5 days and 14 hours"
+    },
+    {
+        "user_id": "e43b13b5-42aa-4a8f-8cfe-af2b2e1bfa66",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "7 weeks, 5 days and 2 hours"
+    },
+    {
+        "user_id": "37be897b-8f3d-4f55-a046-a094654c2859",
+        "course_id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+        "avg_time_spent": "10 weeks, 1 day and 9 hours"
+    },
+    {
+        "user_id": "828025e4-ed38-473b-9176-3dbe23be6c16",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "3 weeks, 4 days and 1 hour"
+    },
+    {
+        "user_id": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+        "course_id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+        "avg_time_spent": "2 days, 15 hours and 1 minute"
+    },
+    {
+        "user_id": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+        "course_id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+        "avg_time_spent": "10 weeks, 6 days and 14 hours"
+    },
+    {
+        "user_id": "3791a8b6-ba07-4cdb-a525-4b86f96c463a",
+        "course_id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+        "avg_time_spent": "1 week, 4 days and 8 hours"
+    }
+]

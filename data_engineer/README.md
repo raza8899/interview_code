@@ -23,3 +23,11 @@ Given the data you are provided with, we would like you to build:
 
 - You provide a possibility to visualize the data in a ui tool with graphs
 - You provide addtional possibilities of analyzing the data via that ui tool (e.g. which times users start mostly, most frequent used courses, etc.)
+
+## Running the code using Docker
+  - `docker compose build` it will build the necessary images to create the containers
+  - `docker compose up -d` it will start the containers
+  - To run the python code, we have to enter the data_engineer container, so run `docker compose exec data_engineer bash`
+  - Now run `python3 data_engineer/load_data.py`
+  - Once the data have been loaded run `python3 data_engineer/main.py` to execute all queries
+  - Query results are also saved to **data_engineer/query_results** 

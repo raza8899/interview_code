@@ -1,0 +1,42 @@
+[
+    {
+        "user_id": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+        "time_spent_on_course": "7 hours, 19 minutes and 48.62 seconds"
+    },
+    {
+        "user_id": "235eb8df-e224-43ee-9aea-567e9f33b675",
+        "time_spent_on_course": "9 hours, 29 minutes and 30.59 seconds"
+    },
+    {
+        "user_id": "6237b65b-6a0b-4add-acec-a37fff834804",
+        "time_spent_on_course": "10 hours, 35 minutes and 44.99 seconds"
+    },
+    {
+        "user_id": "a8616076-7b2a-4d98-906a-157613d8aa01",
+        "time_spent_on_course": "10 hours, 43 minutes and 42.75 seconds"
+    },
+    {
+        "user_id": "1b34818a-5d6f-4537-8266-398db47c786e",
+        "time_spent_on_course": "12 hours, 24 minutes and 49.68 seconds"
+    },
+    {
+        "user_id": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+        "time_spent_on_course": "35 weeks, 6 hours and 4 minutes"
+    },
+    {
+        "user_id": "f5b8371d-659a-4831-90df-eedce9e2e114",
+        "time_spent_on_course": "35 weeks, 11 hours and 41 minutes"
+    },
+    {
+        "user_id": "4e034428-23ee-4b55-80c0-25546b1757f3",
+        "time_spent_on_course": "35 weeks, 3 days and 2 hours"
+    },
+    {
+        "user_id": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+        "time_spent_on_course": "40 weeks, 6 days and 10 hours"
+    },
+    {
+        "user_id": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+        "time_spent_on_course": "44 weeks, 2 days and 19 hours"
+    }
+]
